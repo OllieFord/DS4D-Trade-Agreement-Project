@@ -1,4 +1,4 @@
 Instruction
-In the network diagram, nodes represent the countries and organizations that have signed agreements in the data, while the size and color of nodes represent the number of agreements signed in the time interval included in the data. At the same time, nodes are grouped together in different layouts, reflecting the degree of economic correlation between countries or organizations.
+In the network diagram, nodes represent the countries and organizations that have signed agreements in the data, while the \n size and color of nodes represent the number of agreements signed in the time interval included in the data. At the same time,\n nodes are grouped together in different layouts, reflecting the degree of economic correlation between countries or organizations.
 
-In the image set, the time segments contained in the data are divided into groups every 10 years, thus refining the network graph to more easily observe the changes in the international trade pattern in each decade.
+In the image set, the time segments contained in the data are divided into groups every 10 years, thus refining the network \n graph to more easily observe the changes in the international trade pattern in each decade.
