@@ -19,7 +19,7 @@ var xCat = "x",
     region = 'Region';
     
 
-d3.csv("Chap_clust.csv", function(data) {
+d3.csv("./Data/Chap_clust.csv", function(data) {
   data.forEach(function(d) {
     d.x = +d.x;
     d.y = +d.y;
