@@ -1,7 +1,7 @@
 
 var margin = { top: 50, right: 420, bottom: 50, left: 30 },
     outerWidth = 1200,
-    outerHeight = 500,
+    outerHeight = 700,
     width = outerWidth - margin.left - margin.right,
     height = outerHeight - margin.top - margin.bottom;
 
@@ -29,11 +29,11 @@ d3.csv("Chap_clust.csv", function(data) {
     
   });
 
-  var xMax = d3.max(data, function(d) { return d[xCat]; }) * 1.3,
-      xMin = d3.min(data, function(d) { return d[xCat]; }) * 1.3,
+  var xMax = d3.max(data, function(d) { return d[xCat]; }) * 1.1,
+      xMin = d3.min(data, function(d) { return d[xCat]; }) * 1.1,
       xMin = xMin > 0 ? 0 : xMin,
-      yMax = d3.max(data, function(d) { return d[yCat]; }) * 1.3,
-      yMin = d3.min(data, function(d) { return d[yCat]; }) * 1.3,
+      yMax = d3.max(data, function(d) { return d[yCat]; }) * 1.1,
+      yMin = d3.min(data, function(d) { return d[yCat]; }) * 1.1,
       yMin = yMin > 0 ? 0 : yMin;
 
   x.domain([xMin, xMax]);
@@ -149,7 +149,7 @@ d3.csv("Chap_clust.csv", function(data) {
       .attr("dy", ".35em")
       .text(function(d) { return d; });
 
-  d3.select("input").on("click", change);
+//   d3.select("input").on("click", change);
 
 //   function change() {
 //     xCat = "Carbs";

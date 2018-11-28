@@ -2,19 +2,38 @@
   <head>
     <meta charset="utf-8">
     <title>Visualization</title>
+    <link rel="stylesheet" href="CSS/main.css" charset="utf-8">
     <link rel="stylesheet" href="scatter.css" charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Maitree:400,700|Montserrat|Quattrocento" rel="stylesheet">
   </head>
   <body>
-      <div>
-    <h1>Trade Agreement Documents Clustered by Topic</h1>
+      <div id="wrapper">
+          <h1 id='title'>Trade Agreement Documents Clustered by Topic</h1>
+          <div id="navigation"> 
+          <ul>
+              <li><a href="main.html">Home</a></li>
+              <li><a href="#" class="current">Trade Agreement Documents Clustered by Topic</a></li>
+              <li><a href="index2.html">Trade Agreement Chapters Clustered by Topic</a></li>
+            </ul>
+          </div>
+          
+          <h2 id="sub-title">Static Visualisation: <br> Agreement Documents Clustered by Topic</h2>
+    <div id="static">
+          <img class="img" src="Images/DOC_static.png" style="width:800px;height:auto;">
+    </div>
+          
+          <p>Each point represents a trade agreement between one or more countries, the colour represents the type of trade agreement. The agreements have also been analysed and the average year the treaties were signed for each cluster shown. Furthermore, The general regions which treaties are a part of is also shown. </p>
+          <p>The types of trade agreements can be roughly separated along continental lines, meaning that European countries seem to prefer free trade agreements, while North America and East Asia seem to prefer free trade and Economic integration agreements. A third cluster exists, where the commonwealth of independent states seem to predominantly trade with one another using a variety of trade agreement types. </p>
+          
+        <p>This visualisation also shows that trade agreements are changing over time, both within types as well as between types. </p>
+          
+          <h2 id="sub-title" > Interactive Visualisation: <br> Agreement Documents Clustered by Topic</h2>
+          <p>This interactive visualisation uses the same data as above however, the clusters are slightly different due to random fluctuations in the clustering algorithm. The colour represents the agreement type, point size represents the length of the treaty and like above the position represents the relative similarity of the trade agreements. This is an interactive visualisation so you are free to explore and investigate clusters. Additional data is presented when you hover over a point.</p>
     <div id="scatter"></div>
     </div>
-      
-      <a href="index2.html">Trade Agreement Chapters Clustered by Topic</a>
 
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
-    <script src="scatter2.js" charset="utf-8"></script>
     <script src="scatter.js" charset="utf-8"></script>
     
   </body>

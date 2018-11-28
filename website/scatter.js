@@ -149,7 +149,7 @@ d3.csv("DOC_clust.csv", function(data) {
       .attr("dy", ".35em")
       .text(function(d) { return d; });
 
-  d3.select("input").on("click", change);
+//   d3.select("input").on("click", change);
 
 //   function change() {
 //     xCat = "Carbs";

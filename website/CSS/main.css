@@ -1,0 +1,100 @@
+body{
+    font-family: 'Quattrocento', serif;
+/*     background-image: linear-gradient(to right top, #fbfbfb, #ffefff, #ffe0e1, #ffe2a0, #f9f871); */
+}
+
+#wrapper{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+
+/* font-family: 'Maitree', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Quattrocento', serif; */
+
+#sub-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-top: 40px;
+}
+
+#title{
+    font-family: 'Maitree', serif;
+    font-weight: 700;
+    font-size: 4em;
+    line-height: 1.35;
+}
+
+#content1{
+    font-size: 1.2em;
+    padding-top: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 1%;
+/*     background: #FBFBFB; */
+    border-radius: 5px;
+}
+
+#content2{
+    font-size: 1.2em;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+#navigation ul li{
+    display: inline;
+    margin-left: 7px;
+}
+
+#navigation ul li a{
+    text-decoration: none;
+    color: grey;
+}
+
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+a:hover{
+    background-color: yellow;
+    font-weight: bold;
+    color: black;
+}
+
+#navigation ul li a:hover{
+    background-color: yellow;
+    font-weight: bold;
+    color: black;
+}
+
+#navigation li a.current{
+    color: black;
+}
+
+.img{
+    display: block;
+    margin: 0 auto;
+}
+
+#static-img{
+    text-align:center;
+}
+
+#imgimg{
+    display:inline-block;
+    margin:5px 20px;
+    padding:5px;
+    
+    border:1px solid #CCC;
+}
+
+span{
+    background-color: #FFDC00;
+        
+}

@@ -2,18 +2,36 @@
   <head>
     <meta charset="utf-8">
     <title>Visualization</title>
+    <link rel="stylesheet" href="CSS/main.css" charset="utf-8">
     <link rel="stylesheet" href="scatter.css" charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Maitree:400,700|Montserrat|Quattrocento" rel="stylesheet">
   </head>
   <body>
-    <div>
-    <h1>Trade Agreement Chapters Clustered by Topic</h1>
+      <div id="wrapper">
+          <h1 id='title'>Trade Agreement Chapters Clustered by Topic</h1>
+          <div id="navigation"> 
+          <ul>
+              <li><a href="main.html">Home</a></li>
+              <li><a href="index.html">Trade Agreement Documents Clustered by Topic</a></li>
+              <li><a href="#"class="current">Trade Agreement Chapters Clustered by Topic</a></li>
+            </ul>
+          </div>
+          
+<!--           <h2>Static Visualisation: <br> Agreement Documents Clustered by Topic</h2>
+    <div id="static">
+          <img class="img" src="Images/DOC_static.png" style="width:650px;height:auto;">
+          
+    </div> -->
+          <div> 
+          <h2> Interactive Visualisation: <br> Agreement Chapters Clustered by Topic</h2>
     <div id="scatter2"></div>
+              </div>
     </div>
-    <a href="index.html">Trade Agreement Documents Clustered by Topic</a>
+    
 
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
     <script src="scatter2.js" charset="utf-8"></script>
-  
+    
   </body>
 </html>
