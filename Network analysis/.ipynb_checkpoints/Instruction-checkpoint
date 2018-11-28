@@ -1,0 +1,19 @@
+Instruction
+
+Nodes in the overview network diagram of Country&Organization file represent the countries and organizations that have signed agreements 
+in the data. To make the observation more obvious, the size and color of nodes are sorted according to the same nodes attribute -- degree. 
+In other words, nodes of the same color have the same size, and the size of nodes can be understood as the number of agreements signed 
+within the time interval covered by the data. For example, in picture overview3, nodes representing India, China, US, Australia, Japan and 
+Singapore have the same size and color, which means that these countries have the same activity in 450 pieces of international trade. 
+At the same time, nodes are grouped together in different layouts, reflecting the degree of trade relationship between countries or 
+organizations.
+
+In the region network diagram, nodes represent all regions that have appeared in the data. The principle of nodes size and color division is 
+consistent with the overview series pictures, but the difference is that the thickness of connecting nodes can be used to indicate how many
+agreements are signed between regions represented by two nodes. The thicker the connection line, the more agreements are signed.
+
+In the image set, the time interval contained in the data are divided into groups every 10 years, thus refining the network diagram to more 
+easily observe the changes in the international trade pattern in each decade. The principle of nodes size and color division is also the 
+same as description above.
+
+
