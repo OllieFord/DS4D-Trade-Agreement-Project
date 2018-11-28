@@ -1,7 +1,7 @@
 
 var margin = { top: 50, right: 420, bottom: 50, left: 30 },
     outerWidth = 1200,
-    outerHeight = 700,
+    outerHeight = 500,
     width = outerWidth - margin.left - margin.right,
     height = outerHeight - margin.top - margin.bottom;
 
@@ -13,13 +13,13 @@ var y = d3.scale.linear()
 
 var xCat = "x",
     yCat = "y",
-    rCat = 4,
+    rCat = "art_no",
     colorCat = "type",
     name = 'Countries',
     region = 'Region';
     
 
-d3.csv("Chap_clust.csv", function(data) {
+d3.csv("DOC_clust.csv", function(data) {
   data.forEach(function(d) {
     d.x = +d.x;
     d.y = +d.y;
@@ -29,11 +29,11 @@ d3.csv("Chap_clust.csv", function(data) {
     
   });
 
-  var xMax = d3.max(data, function(d) { return d[xCat]; }) * 1.1,
-      xMin = d3.min(data, function(d) { return d[xCat]; }) * 1.1,
+  var xMax = d3.max(data, function(d) { return d[xCat]; }) * 1.3,
+      xMin = d3.min(data, function(d) { return d[xCat]; }) * 1.3,
       xMin = xMin > 0 ? 0 : xMin,
-      yMax = d3.max(data, function(d) { return d[yCat]; }) * 1.1,
-      yMin = d3.min(data, function(d) { return d[yCat]; }) * 1.1,
+      yMax = d3.max(data, function(d) { return d[yCat]; }) * 1.3,
+      yMin = d3.min(data, function(d) { return d[yCat]; }) * 1.3,
       yMin = yMin > 0 ? 0 : yMin;
 
   x.domain([xMin, xMax]);
@@ -67,7 +67,7 @@ d3.csv("Chap_clust.csv", function(data) {
       .scaleExtent([0, 400])
       .on("zoom", zoom);
 
-  var svg = d3.select("#scatter2")
+  var svg = d3.select("#scatter")
     .append("svg")
       .attr("width", outerWidth)
       .attr("height", outerHeight)
@@ -127,7 +127,7 @@ d3.csv("Chap_clust.csv", function(data) {
       .data(data)
     .enter().append("circle")
       .classed("dot", true)
-      .attr("r", rCat)
+      .attr("r", function (d) { return Math.sqrt(d[rCat] / Math.PI) * 0.8; })
       .attr("transform", transform)
       .style("fill", function(d) { return color(d[colorCat]); })
       .on("mouseover", tip.show)

@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Visualization</title>
+    <link rel="stylesheet" href="CSS/main.css" charset="utf-8">
+    <link rel="stylesheet" href="CSS/scatter.css" charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Maitree:400,700|Montserrat|Quattrocento" rel="stylesheet">
+  </head>
+  <body>
+      <div id="wrapper">
+          <h1 id='title'>Trade Agreement <span>Chapters</span> Clustered by Topic</h1>
+          <div id="navigation"> 
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="Topic1.html">Trade Agreement Documents Clustered by Topic</a></li>
+              <li><a href="#"class="current">Trade Agreement Chapters Clustered by Topic</a></li>
+            </ul>
+          </div>
+          
+<!--           <h2>Static Visualisation: <br> Agreement Documents Clustered by Topic</h2>
+    <div id="static">
+          <img class="img" src="Images/DOC_static.png" style="width:650px;height:auto;">
+          
+    </div> -->
+          <div> 
+          <h2 id="sub-title"> Interactive Visualisation: <br> Agreement Chapters Clustered by Topic</h2>
+              <p>Using Data Visualization to Explore International Trade Agreements
+This interactive visualisation uses the text from each chapter, instead of the text from a whole document, to create clusters. This increased granularity shows that while there is some apparent split between trade agreement types, it is less clear than at the document level. Furthermore, additional data has been added to the tool tip allowing us to see the chapter titles. Doing this allows us to explore and see if certain chapter types cluster together. </p>
+              <p> The real takeaway here is the fact that once the trade agreements have been separated into chapters, it becomes difficult to clearly separate and cluster them. This is interesting as it tells us that trade agreements are in fact quite similar overall.
+</p>
+    <div id="scatter2"></div>
+              </div>
+    </div>
+    
+      <div class="footer"></div>
+
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+    <script src="JS/scatter2.js" charset="utf-8"></script>
+    
+  </body>
+</html>

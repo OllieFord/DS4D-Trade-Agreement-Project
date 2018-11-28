@@ -3,6 +3,20 @@ body{
 /*     background-image: linear-gradient(to right top, #fbfbfb, #ffefff, #ffe0e1, #ffe2a0, #f9f871); */
 }
 
+.footer{
+    height: 120px;
+    width: 100%;
+    position:absolute;
+    margin-top: 30px;
+}
+
+#name{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: grey;
+    
+}
+
 #wrapper{
     margin-left: 20%;
     margin-right: 20%;
@@ -62,13 +76,13 @@ a{
 }
 
 a:hover{
-    background-color: yellow;
+    background-color: #FFDC00;
     font-weight: bold;
     color: black;
 }
 
 #navigation ul li a:hover{
-    background-color: yellow;
+    background-color: #FFDC00;
     font-weight: bold;
     color: black;
 }
