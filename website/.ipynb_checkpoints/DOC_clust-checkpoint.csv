@@ -1,0 +1,425 @@
+,x,y,hue,year,type,region,name,art_no
+0,-24.43834,-4.00546,19,2007,Free Trade Agreement & Economic Integration Agreement,East Asia,Japan - Thailand,175
+1,12.918012,-8.336532,5,2005,Free Trade Agreement,Africa; Europe,Egypt - Turkey,40
+2,-26.569803,-4.7683845,19,2007,Free Trade Agreement & Economic Integration Agreement,South America; East Asia,Chile - Japan,201
+3,10.903438,8.111999,1,2006,Free Trade Agreement,Europe; Commonwealth of Independent States (CIS),Central European Free Trade Agreement (CEFTA) 2006,6
+4,7.142662,8.719353,5,2007,Free Trade Agreement,Africa; Europe,EFTA - Egypt,52
+5,-3.1416543,-0.7290057,19,2002,Customs Union,Africa,Southern African Customs Union (SACU),53
+6,-10.619244,0.74525636,19,2005,Free Trade Agreement & Economic Integration Agreement,South America; East Asia,Chile - China,123
+7,-30.53937,-5.6548295,19,2005,Free Trade Agreement & Economic Integration Agreement,East Asia; South America; Oceania,Trans-Pacific Strategic Economic Partnership,198
+8,-20.42778,-1.6882296,19,2005,Free Trade Agreement & Economic Integration Agreement,West Asia; East Asia,India - Singapore,167
+9,-28.569046,-5.143741,19,2006,Free Trade Agreement & Economic Integration Agreement,Central America; East Asia,Panama - Singapore,199
+10,7.429602,12.316704,4,2006,Free Trade Agreement & Economic Integration Agreement,Europe,EU - Albania,137
+11,-0.20381561,-7.7742352,1,2004,Free Trade Agreement,Middle East; Europe,Turkey - Syria,51
+12,-0.1530069,-8.279872,1,2004,Free Trade Agreement,Europe; Middle East,EFTA - Lebanon,43
+13,-6.8411903,2.6597717,19,1997,Free Trade Agreement,Middle East; Africa,Pan-Arab Free Trade Area (PAFTA),27
+14,-5.223219,3.573017,19,2001,Customs Union,Middle East,Gulf Cooperation Council (GCC),35
+15,14.462102,11.334362,13,2002,Free Trade Agreement,Africa; Europe,EU - Algeria,109
+16,-30.480888,-6.473865,19,2005,Free Trade Agreement & Economic Integration Agreement,Middle East; North America,US - Bahrain,195
+17,-9.745315,1.3771701,19,2005,Free Trade Agreement & Economic Integration Agreement,Europe; East Asia,"EFTA - Korea, Republic of",90
+18,-15.790836,-0.4419359,19,2005,Free Trade Agreement & Economic Integration Agreement,East Asia,Japan - Malaysia,161
+19,-19.472082,-1.8656285,19,2004,Free Trade Agreement & Economic Integration Agreement,Middle East; East Asia,Jordan - Singapore,73
+20,-32.67147,-7.0892177,19,2004,Free Trade Agreement & Economic Integration Agreement,Central America; Caribbean; North America,Dominican Republic - Central America - United States Free Trade Agreement (CAFTA-DR),279
+21,-24.647238,-3.5570614,19,2005,Free Trade Agreement & Economic Integration Agreement,East Asia,"Korea, Republic of - Singapore",215
+22,6.5710506,-14.139927,1,2004,Free Trade Agreement,Africa; Europe,Turkey - Morocco,39
+23,-31.573097,-5.75794,19,2004,Free Trade Agreement & Economic Integration Agreement,Africa; North America,US - Morocco,229
+24,-27.071348,-4.890016,19,2005,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,Thailand - New Zealand,152
+25,-16.838264,-0.8232726,19,2002,Free Trade Agreement & Economic Integration Agreement,Europe; South America,EU - Chile,204
+26,-0.7382372,-7.933695,1,2004,Free Trade Agreement,Middle East; Europe,Turkey - Palestinian Authority,54
+27,0.45394394,-7.0595365,1,2004,Free Trade Agreement,Africa; Europe,Turkey - Tunisia,54
+28,-10.956236,1.0715451,19,1993,Customs Union,Africa,Economic Community of West African States (ECOWAS),95
+29,-0.38175383,-7.794175,1,2004,Free Trade Agreement,Europe; Africa,EFTA - Tunisia,48
+30,-20.17603,-2.7004006,19,2004,Free Trade Agreement & Economic Integration Agreement,East Asia; North America,Japan - Mexico,179
+31,-28.187668,-4.881236,19,2004,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,Thailand - Australia,164
+32,-32.16066,-5.9757204,19,2004,Free Trade Agreement & Economic Integration Agreement,Oceania; North America,US - Australia,248
+33,-0.8422162,8.154244,19,2004,Free Trade Agreement & Economic Integration Agreement,East Asia,ASEAN - China,25
+34,-17.99807,-1.3590193,19,2003,Free Trade Agreement & Economic Integration Agreement,South America; Europe,EFTA - Chile,110
+35,7.1368055,8.723385,5,2001,Free Trade Agreement,Europe; Africa,EU - Egypt,93
+36,-3.8778605,-3.3827763,19,1996,Free Trade Agreement,Africa,Southern African Development Community (SADC),41
+37,11.732704,-1.2404412,1,1995,Free Trade Agreement,Commonwealth of Independent States (CIS),Armenia - Turkmenistan,19
+38,11.367493,-3.3510869,1,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Armenia - Russian Federation,23
+39,11.6017685,-0.2847774,1,1993,Free Trade Agreement,Commonwealth of Independent States (CIS),Armenia - Moldova,21
+40,0.8339832,-0.6525924,1,1999,Free Trade Agreement,Commonwealth of Independent States (CIS),Armenia - Kazakhstan,20
+41,11.1182995,-0.670261,1,1994,Free Trade Agreement,Commonwealth of Independent States (CIS),Armenia - Ukraine,15
+42,-31.583185,-6.88526,19,2003,Free Trade Agreement & Economic Integration Agreement,South America; East Asia,"Korea, Republic of - Chile",217
+43,11.443142,15.663879,7,2002,Free Trade Agreement,Europe,Central European Free Trade Agreement (CEFTA) - Accession of Croatia,11
+44,5.7459707,17.619078,12,2003,Free Trade Agreement & Economic Integration Agreement,East Asia,"China - Macao, China",25
+45,5.5294766,17.386066,12,2003,Free Trade Agreement & Economic Integration Agreement,East Asia,"China - Hong Kong, China",23
+46,-21.470598,-2.4189813,19,2003,Free Trade Agreement & Economic Integration Agreement,East Asia; North America,US - Singapore,222
+47,-30.106031,-5.263594,19,2003,Free Trade Agreement & Economic Integration Agreement,South America; North America,US - Chile,162
+48,-21.164452,-2.0751247,19,2003,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,Singapore - Australia,198
+49,9.642835,-13.701508,1,2002,Free Trade Agreement,Europe,Turkey - Bosnia and Herzegovina,37
+50,9.924791,-14.207879,1,2002,Free Trade Agreement,Europe,Turkey - Croatia,39
+51,-0.10723652,-8.386504,1,2002,Free Trade Agreement,Europe; Middle East,EU - Lebanon,44
+52,-21.836142,-2.7229993,19,2002,Free Trade Agreement & Economic Integration Agreement,Europe; East Asia,EFTA - Singapore,75
+53,-17.7814,-1.6786381,19,2001,Free Trade Agreement,North America; Central America,Canada - Costa Rica,116
+54,7.2589164,12.777475,7,2001,Free Trade Agreement & Economic Integration Agreement,Europe,EU - Croatia,130
+55,2.1068215,11.023088,6,1997,Free Trade Agreement,Europe; Middle East,EU - Jordan,102
+56,-14.059462,-0.24369912,19,2002,Free Trade Agreement & Economic Integration Agreement,East Asia,Japan - Singapore,155
+57,-11.117625,0.78399235,19,2000,Free Trade Agreement & Economic Integration Agreement,Middle East; North America,US - Jordan,21
+58,-3.646731,3.3446648,19,1998,Free Trade Agreement,West Asia,India - Sri Lanka,19
+59,-19.068756,-2.225693,19,1997,Free Trade Agreement & Economic Integration Agreement,Europe; North America,EU - Mexico,48
+60,10.554352,10.496513,16,2001,Free Trade Agreement,Europe; Middle East,EFTA - Jordan,43
+61,10.688539,5.5305996,1,2001,Free Trade Agreement,Europe,EFTA - Croatia,42
+62,-0.03341217,-8.057292,1,2001,Free Trade Agreement & Economic Integration Agreement,Europe,EU - Former Yugoslav Republic of Macedonia,51
+63,-14.821849,-0.09907074,19,2000,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,New Zealand - Singapore,86
+64,-28.088236,-3.5792327,19,2000,Free Trade Agreement & Economic Integration Agreement,Europe; North America,EFTA - Mexico,81
+65,-13.8371525,-0.04875673,19,2000,Free Trade Agreement,Middle East; North America,Israel - Mexico,112
+66,6.1178365,17.992517,12,1995,Free Trade Agreement,Commonwealth of Independent States (CIS),Georgia - Armenia,23
+67,6.3140783,18.142962,12,1996,Free Trade Agreement,Commonwealth of Independent States (CIS),Georgia - Azerbaijan,20
+68,6.234254,18.08399,12,1997,Free Trade Agreement,Commonwealth of Independent States (CIS),Georgia - Kazakhstan,18
+69,6.135516,17.998625,12,1994,Free Trade Agreement,Commonwealth of Independent States (CIS),Georgia - Russian Federation,24
+70,6.2215843,18.069815,12,1996,Free Trade Agreement,Commonwealth of Independent States (CIS),Georgia - Turkmenistan,17
+71,6.1604753,18.01735,12,1995,Free Trade Agreement,Commonwealth of Independent States (CIS),Georgia - Ukraine,15
+72,10.245722,-14.310221,1,2000,Free Trade Agreement,Europe,EFTA - Former Yugoslav Republic of Macedonia,43
+73,10.363458,-13.882664,1,1999,Free Trade Agreement,Europe,Turkey - Former Yugoslav Republic of Macedonia,37
+74,11.271961,-1.7305886,1,1994,Free Trade Agreement,Commonwealth of Independent States (CIS),Kyrgyz Republic - Armenia,21
+75,3.7081952,7.3023105,14,1999,Free Trade Agreement,Europe; Africa,EU - South Africa,111
+76,9.33365,14.280711,11,1996,Free Trade Agreement,Europe; Africa,EU - Morocco,97
+77,7.7887597,11.950341,4,1995,Free Trade Agreement,Europe; Middle East,EU - Israel,83
+78,-8.595965,1.8150604,19,1999,Customs Union & Economic Integration Agreement,Africa,East African Community (EAC),157
+79,10.474029,11.352566,11,1997,Free Trade Agreement,Europe; Africa,EFTA - Morocco,44
+80,-2.978124,0.45756045,19,1993,Partial Scope Agreement,Oceania,Melanesian Spearhead Group (MSG),22
+81,-1.8840129,-1.317254,19,1994,Free Trade Agreement,Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS),27
+82,1.8561898,-0.31915566,1,1995,Free Trade Agreement,Commonwealth of Independent States (CIS),Kyrgyz Republic - Kazakhstan,19
+83,11.69843,-5.8627925,1,1998,Free Trade Agreement,Europe; Middle East,EFTA - Palestinian Authority,42
+84,11.47774,1.4644843,1,1995,Free Trade Agreement,Commonwealth of Independent States (CIS),Kyrgyz Republic - Moldova,20
+85,11.599733,-2.5745904,1,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Kyrgyz Republic - Russian Federation,24
+86,11.735319,-1.0610434,1,1995,Free Trade Agreement,Commonwealth of Independent States (CIS),Kyrgyz Republic - Ukraine,16
+87,1.1531776,-0.5198822,1,1996,Free Trade Agreement,Commonwealth of Independent States (CIS),Kyrgyz Republic - Uzbekistan,21
+88,-2.530457,-0.6119764,19,1996,Customs Union,Commonwealth of Independent States (CIS),Eurasian Economic Community (EAEC),70
+89,-2.5327687,-6.057346,19,1995,Free Trade Agreement,Europe; Africa,EU - Tunisia,97
+90,10.729204,9.927703,1,1996,Free Trade Agreement,Middle East; Europe,Turkey - Israel,38
+91,-2.9034631,-0.20107237,19,1991,Customs Union,Europe,EU - Andorra,26
+92,-14.589353,-0.08193859,19,1996,Free Trade Agreement & Economic Integration Agreement,North America; South America,Canada - Chile,179
+93,-2.5152113,-3.380316,19,1997,Free Trade Agreement,Europe; Middle East,EU - Palestinian Authority,76
+94,11.61967,-7.631999,1,1996,Free Trade Agreement,Europe,EU - Faroe Islands,42
+95,-15.265468,-0.662108,19,1996,Free Trade Agreement,North America; Middle East,Canada - Israel,74
+96,-3.369356,-3.9235775,19,1992,Economic Integration Agreement,Europe,European Economic Area (EEA),131
+97,11.468049,3.37915,1,1992,Free Trade Agreement,Europe,Faroe Islands - Norway,30
+98,11.077359,6.095226,1,1994,Free Trade Agreement,Europe,Faroe Islands - Switzerland,13
+99,11.501326,2.211322,1,1992,Free Trade Agreement,Europe,Faeroe Islands - Iceland,30
+100,-2.609411,-5.554951,19,1995,Customs Union,Europe,EU - Turkey,67
+101,-4.1292195,4.3100204,19,1957,Customs Union & Economic Integration Agreement,Europe,EC Treaty,57
+102,-23.0303,-3.216902,19,1993,Customs Union,Africa,Common Market for Eastern and Southern Africa (COMESA),196
+103,-32.553436,-6.3176427,19,1992,Free Trade Agreement & Economic Integration Agreement,North America,North American Free Trade Agreement (NAFTA),298
+104,-3.984408,2.6885881,19,1993,Partial Scope Agreement,West Asia,South Asian Preferential Trade Arrangement (SAPTA),27
+105,11.070045,7.2302365,1,1992,Free Trade Agreement,Europe; Middle East,EFTA - Israel,40
+106,1.371446,10.413982,19,1992,Free Trade Agreement,East Asia,ASEAN Free Trade Area (AFTA),12
+107,-10.523669,1.196335,19,1987,Customs Union,South America,Andean Community (CAN),157
+108,-0.8453441,-8.139834,1,2003,Partial Scope Agreement,Middle East; West Asia; Europe,Economic Cooperation Organization (ECO),39
+109,11.214091,-8.615887,1,1991,Free Trade Agreement,Europe,EFTA - Turkey,37
+110,-2.8054779,6.5014596,19,1991,Customs Union & Economic Integration Agreement,South America,Southern Common Market (MERCOSUR),26
+111,-1.3896033,7.5494018,19,1991,Partial Scope Agreement,East Asia,Lao People's Democratic Republic - Thailand,11
+112,6.475309,5.0253267,4,1985,Free Trade Agreement,Middle East; North America,US - Israel,24
+113,-1.6978356,7.231936,19,1982,Free Trade Agreement & Economic Integration Agreement,Oceania,Australia - New Zealand (ANZCERTA),26
+114,2.0855317,11.008687,4,1980,Partial Scope Agreement,Oceania,South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA),17
+115,-1.2198402,-6.1058903,1,1977,Free Trade Agreement,Europe; Middle East,EU - Syria,50
+116,-2.5318434,6.8041387,19,1976,Free Trade Agreement,Oceania,Australia - Papua New Guinea (PATCRA),26
+117,-3.6573794,-0.586583,19,1975,Partial Scope Agreement,West Asia; East Asia,Asia Pacific Trade Agreement (APTA),40
+118,0.90445673,9.98309,19,1973,Customs Union & Economic Integration Agreement,Caribbean; Central America; South America,Caribbean Community and Common Market (CARICOM),35
+119,11.674306,-8.388521,1,1973,Free Trade Agreement,Europe,EU - Norway,38
+120,11.503565,-9.230483,1,1972,Free Trade Agreement,Europe,EU - Iceland,39
+121,11.306933,0.57965195,1,1972,Free Trade Agreement,Europe,EU - Switzerland - Liechtenstein,38
+122,1.7315392,10.730107,4,1988,Partial Scope Agreement,Africa; South America; West Asia; Caribbean; East Asia; Middle East; North America; Central America,Global System of Trade Preferences among Developing Countries (GSTP),36
+123,-2.1651044,4.632143,19,1971,Partial Scope Agreement,West Asia; South America; Africa; Middle East; East Asia; North America; Europe,Protocol on Trade Negotiations (PTN),24
+124,-26.303675,-2.453325,19,1970,Free Trade Agreement,Caribbean; Europe; Africa; South America; Oceania; North America,EU – Overseas Countries and Territories (OCT),65
+125,-2.2355986,6.1901655,19,1969,Free Trade Agreement,Europe,EFTA - Accession of Iceland,8
+126,-0.9102642,8.078885,19,1967,Partial Scope Agreement,Africa; West Asia; Europe,Tripartite Agreement,14
+127,-9.890626,0.9846926,19,1960,Free Trade Agreement & Economic Integration Agreement,Europe,European Free Trade Association (EFTA),61
+128,-21.05339,-2.8036456,19,2006,Free Trade Agreement & Economic Integration Agreement,East Asia; West Asia,Pakistan - China,85
+129,-1.2530535,-7.312056,1,2007,Free Trade Agreement & Economic Integration Agreement,Europe,EU - Montenegro,62
+130,-20.054106,-2.3925867,19,2015,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,Australia - China,224
+131,-29.422964,-5.5273695,19,2008,Free Trade Agreement & Economic Integration Agreement,Oceania; South America,Australia - Chile,293
+132,-0.5143619,8.512936,19,2008,Free Trade Agreement,North America; Europe,EFTA - Canada,45
+133,-27.41991,-4.932452,19,2008,Free Trade Agreement & Economic Integration Agreement,North America; South America,Canada - Colombia,279
+134,-23.491014,-3.147148,19,2010,Free Trade Agreement & Economic Integration Agreement,Europe; East Asia,"EU - Korea, Republic of",275
+135,-29.582117,-5.206113,19,2014,Free Trade Agreement & Economic Integration Agreement,North America; East Asia,Canada - Rep. of Korea,310
+136,2.200347,11.092174,6,2006,Free Trade Agreement & Economic Integration Agreement,East Asia,"ASEAN - Korea, Republic of",23
+137,-17.333307,-1.4799811,19,2008,Free Trade Agreement & Economic Integration Agreement,East Asia,Japan - Viet Nam,131
+138,-20.986626,-2.8070786,19,2007,Free Trade Agreement & Economic Integration Agreement,East Asia,Japan - Indonesia,155
+139,-24.772686,-3.9926958,19,2011,Free Trade Agreement & Economic Integration Agreement,West Asia; East Asia,India - Japan,149
+140,-23.889688,-3.305754,19,2014,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,Japan - Australia,276
+141,-5.686889,3.2492068,19,2008,Free Trade Agreement,East Asia,ASEAN - Japan,82
+142,-17.956,-1.0942748,19,2008,Free Trade Agreement & Economic Integration Agreement,South America; Europe,EFTA - Colombia,147
+143,-16.332344,-0.53633374,19,2010,Free Trade Agreement,Europe; South America,EFTA - Peru,136
+144,-25.715948,-4.538904,19,2009,Free Trade Agreement & Economic Integration Agreement,East Asia; Europe,Japan - Switzerland,156
+145,-33.14149,-6.548345,19,2006,Free Trade Agreement & Economic Integration Agreement,South America; North America,US - Peru,279
+146,-31.514906,-6.361854,19,2007,Free Trade Agreement & Economic Integration Agreement,Central America; North America,US - Panama,282
+147,-32.11378,-6.683546,19,2006,Free Trade Agreement & Economic Integration Agreement,Middle East; North America,US - Oman,221
+148,-30.039162,-5.986039,19,2007,Free Trade Agreement & Economic Integration Agreement,East Asia; North America,"Korea, Republic of - US",272
+149,-26.28677,-4.565951,19,2012,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,Malaysia - Australia,244
+150,-20.327429,-2.069333,19,2007,Free Trade Agreement & Economic Integration Agreement,East Asia; West Asia,Pakistan - Malaysia,138
+151,-10.136575,1.4404544,19,2004,Free Trade Agreement,West Asia,South Asian Free Trade Agreement (SAFTA),27
+152,-2.01575,6.5377555,19,1962,Customs Union,Africa,African Common Market,21
+153,10.490972,-13.29694,1,2003,Free Trade Agreement,Europe,Albania - Bosnia and Herzegovina,41
+154,11.67459,-6.874874,1,2003,Free Trade Agreement,Europe,Albania - Bulgaria,38
+155,10.799461,-12.361208,1,2002,Free Trade Agreement,Europe,Albania - Former Yugoslav Republic of Macedonia,41
+156,8.220885,-20.662273,1,2003,Free Trade Agreement,Europe; Commonwealth of Independent States (CIS),Albania - Moldova,41
+157,6.946708,-20.452984,1,2003,Free Trade Agreement,Europe,Albania - Romania,42
+158,7.4625597,-19.204453,1,2003,Free Trade Agreement,Europe,Albania - Serbia and Montenegro,42
+159,11.3034525,-9.778155,1,2003,Free Trade Agreement,Europe,Albania - UNMIC/Kosovo,39
+160,-2.6046596,5.883791,19,1964,Customs Union,Africa; Middle East,Arab Common Market,22
+161,-1.096148,-1.6944671,1,1969,Free Trade Agreement,Europe; Africa,Arusha  Agreement,37
+162,-3.0368724,5.977928,19,1965,Free Trade Agreement,Oceania,Australia - New Zealand Free Trade Agreement,19
+163,-2.9033353,1.0861843,19,1961,Free Trade Agreement,,Borneo Free Trade Area,26
+164,11.156976,-9.287795,1,2003,Free Trade Agreement,Europe,Bulgaria - Bosnia and Herzegovina,42
+165,8.066211,-19.082415,1,2001,Free Trade Agreement,Europe,Bulgaria - Estonia,40
+166,7.9954967,-18.258085,1,1999,Free Trade Agreement,Europe,Bulgaria - Former Yugoslav Republic of Macedonia,41
+167,11.900774,-4.170079,1,2001,Free Trade Agreement,Europe; Middle East,Bulgaria - Israel,43
+168,8.431289,-17.766672,1,2002,Free Trade Agreement,Europe,Bulgaria - Latvia,38
+169,11.137571,-10.242125,1,2001,Free Trade Agreement,Europe,Bulgaria - Lithuania,40
+170,9.564678,-14.051757,1,2003,Free Trade Agreement,Europe,Bulgaria - Serbia and Montenegro,41
+171,8.063923,-21.064137,1,1995,Free Trade Agreement,Europe,Bulgaria - Slovak Republic Free Trade Agreement,41
+172,6.9865136,-21.76519,1,1996,Free Trade Agreement,Europe,Bulgaria - Slovenia,39
+173,10.933292,-10.883058,1,1998,Free Trade Agreement,Europe,Bulgaria - Turkey,42
+174,-7.2059655,2.4866493,19,1988,Free Trade Agreement,North America,Canada - US Free Trade Agreement (CUSFTA),151
+175,-4.239073,-3.280738,19,1965,Free Trade Agreement,Caribbean; South America,Caribbean Free Trade Association (CARIFTA),40
+176,0.27634314,9.352121,19,1958,Free Trade Agreement,Central America,Central American Free Trade Area,30
+177,11.064014,-10.293171,1,1992,Free Trade Agreement,Europe,Central European Free Trade Agreement (CEFTA),43
+178,10.962044,15.296821,4,1998,Free Trade Agreement,Europe,Central European Free Trade Agreement (CEFTA) - Accession of Bulgaria,14
+179,11.351597,15.183848,4,1997,Free Trade Agreement,Europe,Central European Free Trade Agreement (CEFTA) - Accession of Romania,16
+180,11.426832,15.845276,4,1995,Free Trade Agreement,Europe,Central European Free Trade Agreement (CEFTA) - Accession of Slovenia,12
+181,8.509452,-18.97647,1,2002,Free Trade Agreement,Europe,Croatia - Albania,42
+182,10.572467,-12.937649,1,2000,Free Trade Agreement,Europe,Croatia - Bosnia and Herzegovina,41
+183,9.343903,-14.915694,1,1997,Free Trade Agreement,Europe,Croatia - Former Yugoslav Republic of Macedonia,40
+184,10.92081,16.287014,7,2004,Free Trade Agreement,Europe,Croatia - Serbia and Montenegro,14
+185,7.225522,-20.892279,1,1995,Free Trade Agreement,Europe,Czech Republic - Bulgaria Free Trade Agreement,41
+186,10.910487,-11.679183,1,1996,Free Trade Agreement,Europe,Czech Republic - Estonia,43
+187,7.090888,-20.11996,1,1996,Free Trade Agreement,Europe; Middle East,Czech Republic - Israel,41
+188,9.936911,-14.8801365,1,1996,Free Trade Agreement,Europe,Czech Republic - Latvia,43
+189,9.652858,-15.593314,1,1996,Free Trade Agreement,Europe,Czech Republic - Lithuania,42
+190,6.9391823,-20.513578,1,1994,Free Trade Agreement,Europe,Czech Republic - Romania Free Trade Agreement,41
+191,6.771266,4.693733,4,1992,Customs Union,Europe,Czech Republic - Slovak Republic Customs Union,10
+192,8.635205,-18.23159,1,1993,Free Trade Agreement,Europe,Czech Republic - Slovenia,41
+193,7.6891336,-18.76457,1,1997,Free Trade Agreement,Europe,Czech Republic - Turkey,39
+194,14.461952,11.334287,13,1976,Free Trade Agreement,Africa; Europe,EC - Algeria,110
+195,11.607906,-7.936875,1,1972,Free Trade Agreement,Europe,EC - Austria Agreement of 1972,38
+196,7.5326724,12.546955,4,1993,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Bulgaria Europe Agreement,126
+197,10.749808,13.431522,3,1993,Free Trade Agreement,Europe,EC - Bulgaria Interim Agreement,53
+198,11.1359005,-0.8923614,1,1972,Customs Union,Europe,EC - Cyprus Association Agreement,20
+199,6.5690203,-13.843048,1,1991,Free Trade Agreement,Europe,EC - Czech and Slovak Federal Republic Interim Agreement,50
+200,7.7539577,12.527593,4,1993,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Czech Republic Europe Agreement,124
+201,7.145154,8.72688,5,1972,Free Trade Agreement,Europe; Africa,EC - Egypt Agreement of 1972,23
+202,7.1404467,8.725415,5,1977,Free Trade Agreement,Europe; Africa,EC - Egypt Cooperation Agreement,52
+203,11.177598,14.46314,16,1994,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Estonia Agreement,51
+204,11.206635,5.489346,1,1991,Free Trade Agreement,Europe,EC - Faeroe Islands Agreement of 1992,40
+205,11.4730425,-8.146137,1,1973,Free Trade Agreement,Europe,EC - Finland Agreement,37
+206,1.6300577,0.40988433,1,1975,Free Trade Agreement,Europe,EC - Greece Additional Protocol,20
+207,-2.759645,-4.9637623,19,1961,Customs Union,Europe,EEC - Greece Association Agreement,79
+208,7.5800037,13.02327,4,1991,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Hungary Europe Agreement,125
+209,10.699056,12.934924,8,1991,Free Trade Agreement,Europe,EC - Hungary Interim Agreement of 1991,49
+210,10.793984,13.723266,4,1970,Free Trade Agreement,Europe; Middle East,EC - Israel Agreement of 1970,23
+211,6.6291547,12.041113,4,1994,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Latvia Agreement,131
+212,-2.5945177,-4.493314,19,1977,Free Trade Agreement,Europe; Middle East,EC - Lebanon Cooperation Agreement,50
+213,10.767306,14.629674,16,1994,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Lithuania,52
+214,11.162123,-0.10973467,1,1970,Customs Union,Europe,EC - Malta Association Agreement,20
+215,11.040087,15.793405,11,1969,Free Trade Agreement,Europe; Africa,EC - Morocco Association Agreement of 1969,19
+216,8.193376,13.447957,4,1991,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Poland Europe Agreement,123
+217,10.76943,14.610908,17,1991,Free Trade Agreement,Europe,EC - Poland Interim Agreement of 1991,50
+218,11.935949,-8.856159,1,1972,Free Trade Agreement,Europe,EC - Portugal Agreement of 1972,40
+219,8.092431,13.094431,4,1993,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Romania Europe Agreement,127
+220,10.827954,14.133186,6,1993,Free Trade Agreement,Europe,EC - Romania Interim Agreement,53
+221,7.814716,12.5456915,4,1993,Free Trade Agreement & Economic Integration Agreement,Europe,EC - Slovak Republic Europe Agreement,124
+222,9.071702,12.691689,4,1993,Free Trade Agreement,Europe,EC - Slovenia Cooperation Agreement,53
+223,6.639491,12.020781,4,1996,Economic Integration Agreement,Europe,EC - Slovenia Europe Agreement,132
+224,10.68257,12.783884,17,1996,Free Trade Agreement,Europe,EC - Slovenia Interim Agreement,52
+225,11.394933,0.29996258,1,1970,Free Trade Agreement,Europe,EC - Spain Agreement of 1970,21
+226,11.194034,-8.66719,1,1972,Free Trade Agreement,Europe,EC - Sweden Agreement,37
+227,-2.7400398,-2.2553182,19,1977,Free Trade Agreement,Europe,EC - Syria Interim Agreement of 1977,51
+228,10.947511,1.798619,1,1969,Free Trade Agreement,Europe; Africa,EC - Tunisia Association Agreement of 1969,20
+229,-3.3230038,-1.2117546,19,1970,Free Trade Agreement,Europe,EC - Turkey Additional Protocol,65
+230,-2.2295032,3.762746,19,1963,Free Trade Agreement,Europe,EEC - Turkey Association Agreement of 1963,33
+231,-2.458184,2.71041,19,1973,Customs Union,Europe,EC - Turkey Association Agreement of 1973,19
+232,10.756018,9.315358,1,1993,Free Trade Agreement,Europe,EFTA - Bulgaria,42
+233,9.066609,-15.712567,1,1992,Free Trade Agreement,Europe,EFTA - Czechoslovakia,41
+234,10.698877,10.056106,1,1995,Free Trade Agreement,Europe,EFTA - Estonia Free Trade Agreement,41
+235,10.516985,11.844687,7,1993,Free Trade Agreement,Europe,EFTA - Hungary Agreement,42
+236,10.545132,10.533341,4,1995,Free Trade Agreement,Europe,EFTA - Latvia,41
+237,10.758426,9.379718,1,1995,Free Trade Agreement,Europe,EFTA - Lithuania,42
+238,10.577647,12.151201,8,1992,Free Trade Agreement,Europe,EFTA - Poland Agreement,42
+239,10.497012,11.0509405,11,1992,Free Trade Agreement,Europe,EFTA - Romania Free Trade Agreement,42
+240,11.195058,6.4376826,1,1995,Free Trade Agreement,Europe,EFTA - Slovenia,42
+241,9.6567955,18.491344,4,1979,Free Trade Agreement,Europe,EFTA - Spain Agreement,3
+242,-8.80581,1.72741,19,1951,Free Trade Agreement,Central America,El Salvador - Nicaragua Free Trade Area,26
+243,-2.526076,5.919834,19,1959,Free Trade Agreement,Africa,Equatorial Customs Union - Cameroon Association,20
+244,10.53409,-13.5212145,1,1997,Free Trade Agreement,Europe,Estonia - Faeroe Islands,32
+245,11.380203,3.1426914,1,1993,Free Trade Agreement,Europe,Estonia - Latvia - Lithuania,34
+246,11.5644655,1.9204506,1,1992,Free Trade Agreement,Europe,Estonia - Norway Free Trade Agreement,27
+247,10.80253,3.0677595,1,1992,Free Trade Agreement,Europe,Estonia - Sweden Free Trade Agreement,26
+248,11.031023,4.870922,1,1992,Free Trade Agreement,Europe,Estonia - Switzerland Free Trade Agreement,34
+249,11.943331,-3.7306087,1,1995,Free Trade Agreement,Europe; Commonwealth of Independent States (CIS),Estonia - Ukraine,30
+250,11.440549,2.72442,1,1992,Free Trade Agreement,Europe,Finland - Estonia Protocol,15
+251,11.095811,4.022808,1,1992,Free Trade Agreement,Europe,Finland - Latvia Protocol,14
+252,11.375287,3.759995,1,1992,Free Trade Agreement,Europe,Finland - Lithuania Protocol,15
+253,9.860422,-13.146995,1,2002,Free Trade Agreement,Europe,Former Yugoslav Republic of Macedonia  - Bosnia and Herzegovina,42
+254,-2.9845734,6.2834272,19,1961,Free Trade Agreement,Africa,Ghana - Upper Volta Trade Agreement,18
+255,-3.9407024,4.8439956,19,1981,Customs Union,Middle East,Gulf Cooperation Council (GCC),29
+256,11.687537,-6.362761,1,1998,Free Trade Agreement,Europe,Hungary - Estonia,38
+257,9.346001,-14.913209,1,1997,Free Trade Agreement,Europe; Middle East,Hungary - Israel,40
+258,8.466691,-19.444633,1,1999,Free Trade Agreement,Europe,Hungary - Latvia,40
+259,11.929258,-4.1128955,1,1998,Free Trade Agreement,Europe,Hungary - Lithuania,38
+260,8.240439,-19.906939,1,1994,Free Trade Agreement,Europe,Hungary - Slovenia Free Trade Agreement,41
+261,11.675368,-0.50106966,1,1997,Free Trade Agreement,Europe,Hungary - Turkey,37
+262,-5.4841065,3.3896837,19,1965,Free Trade Agreement,Europe,Ireland - United Kingdom Free Trade Area,29
+263,-8.910515,1.5894314,19,1960,Free Trade Agreement,South America; North America,Latin American Free Trade Area (LAFTA),67
+264,10.9268,2.1549373,1,1992,Free Trade Agreement,Europe,Latvia - Norway Free Trade Agreement,28
+265,10.834149,3.6320238,1,1992,Free Trade Agreement,Europe,Latvia - Sweden Free Trade Agreement,27
+266,11.218648,6.814163,1,1992,Free Trade Agreement,Europe,Latvia - Switzerland Free Trade Agreement,35
+267,10.923911,2.6118476,1,1992,Free Trade Agreement,Europe,Lithuania - Norway Free Trade Agreement,29
+268,10.812955,3.53659,1,1992,Free Trade Agreement,Europe,Lithuania - Sweden Free Trade Agreement,27
+269,10.842329,6.5141115,1,1992,Free Trade Agreement,Europe,Lithuania - Switzerland Free-Trade Agreement,35
+270,8.991173,-17.095917,1,2002,Free Trade Agreement,Europe; Commonwealth of Independent States (CIS),Moldova - Bosnia and Herzegovina,40
+271,10.524383,-12.002929,1,2004,Free Trade Agreement,Europe; Commonwealth of Independent States (CIS),Moldova - Bulgaria,38
+272,7.6482935,-20.37332,1,2004,Free Trade Agreement,Europe; Commonwealth of Independent States (CIS),Moldova - Croatia,40
+273,7.4145226,-19.746271,1,2004,Free Trade Agreement,Commonwealth of Independent States (CIS); Europe,Moldova - Former Yugoslav Republic of Macedonia,43
+274,7.836409,-19.503876,1,2003,Free Trade Agreement,Commonwealth of Independent States (CIS),Moldova - Serbia and Montenegro,39
+275,11.358789,-3.799182,1,1998,Free Trade Agreement,Europe,Poland - Faeroe Islands,34
+276,8.529666,-16.898851,1,1998,Free Trade Agreement,Middle East; Europe,Poland - Israel,42
+277,6.9273477,-21.220747,1,1997,Free Trade Agreement,Europe,Poland - Latvia,41
+278,7.618141,-21.091568,1,1996,Free Trade Agreement,Europe,Poland - Lithuania,40
+279,8.897441,-16.33414,1,2003,Free Trade Agreement,Europe,Romania - Bosnia and Herzegovina,44
+280,8.221247,-18.537958,1,2003,Free Trade Agreement,Europe,Romania - Former Yugoslav Republic of Macedonia,43
+281,10.545196,11.986269,4,2001,Free Trade Agreement,Middle East; Europe,Romania - Israel,43
+282,11.10435,1.5159653,1,1994,Free Trade Agreement,Commonwealth of Independent States (CIS); Europe,Romania - Moldova,36
+283,7.7066493,-21.43323,1,2003,Free Trade Agreement,Europe,Romania - Serbia and Montenegro,42
+284,10.971182,7.5508103,1,1997,Free Trade Agreement,Europe,Romania - Turkey,42
+285,10.607417,-11.402212,1,1996,Free Trade Agreement,Europe,Slovak Republic - Estonia,43
+286,8.231737,-20.506422,1,1996,Free Trade Agreement,Middle East; Europe,Slovak Republic - Israel,41
+287,9.0674715,-15.447476,1,1996,Free Trade Agreement,Europe,Slovak Republic - Latvia,43
+288,9.775857,-15.41229,1,1996,Free Trade Agreement,Europe,Slovak Republic - Lithuania,42
+289,7.693594,-20.458263,1,1994,Free Trade Agreement,Europe,Slovak Republic - Romania Free Trade Agreement,41
+290,7.55084,-18.963911,1,1997,Free Trade Agreement,Europe,Slovak Republic - Turkey,40
+291,8.410456,-17.28963,1,2001,Free Trade Agreement,Europe,Slovenia - Bosnia and Herzegovina,37
+292,8.529199,-19.278114,1,1997,Free Trade Agreement,Europe,Slovenia - Croatia,42
+293,9.82214,-13.424956,1,1996,Free Trade Agreement,Europe,Slovenia - Estonia,43
+294,6.518562,-14.639997,1,1996,Free Trade Agreement,Europe,Slovenia - Former Yugoslav Republic of Macedonia,42
+295,9.488254,-15.8833885,1,1998,Free Trade Agreement,Middle East; Europe,Slovenia - Israel,41
+296,10.0846195,-12.691904,1,1996,Free Trade Agreement,Europe,Slovenia - Latvia,38
+297,7.332986,-22.134176,1,1996,Free Trade Agreement,Europe,Slovenia - Lithuania,42
+298,9.656626,18.49232,4,1948,Customs Union,Africa,South Africa - Southern Rhodesia Customs Union,1
+299,10.84979,6.99458,1,1997,Free Trade Agreement,Europe,Turkey - Estonia,37
+300,11.521889,-8.9507675,1,1998,Free Trade Agreement,Europe,Turkey - Latvia,38
+301,11.144518,5.3136487,1,1997,Free Trade Agreement,Europe,Turkey - Lithuania,38
+302,8.931207,-17.335087,1,1999,Free Trade Agreement,Europe,Turkey - Poland,42
+303,10.965164,-11.084441,1,1998,Free Trade Agreement,Europe,Turkey - Slovenia,42
+304,-3.4646177,-3.447249,19,1963,Free Trade Agreement,Europe; Africa,Yaoundé I,64
+305,-3.546938,-3.0112696,19,1969,Free Trade Agreement,Europe; Africa,Yaoundé II,67
+306,-5.866442,3.1354482,19,1975,Free Trade Agreement,Caribbean; Europe; Africa; Oceania; South America,First Convention of Lomé,95
+307,-10.900404,0.70884526,19,1979,Free Trade Agreement,Caribbean; Europe; Africa; Oceania; South America,Second Convention of Lomé,192
+308,-13.607528,-0.048622727,19,1984,Free Trade Agreement,Caribbean; Africa; Oceania; Europe; South America,Third Convention of Lomé,293
+309,-3.15815,0.2251979,19,1991,Customs Union,Europe,EU - San Marino,33
+310,-2.413277,1.1581073,19,2003,Partial Scope Agreement,West Asia,India - Afghanistan,19
+311,-0.7659597,6.1804557,19,2009,Partial Scope Agreement,West Asia,India - Nepal,14
+312,-15.438216,-0.9735497,19,2005,Free Trade Agreement & Economic Integration Agreement,East Asia; Central America,Guatemala - Chinese Taipei,227
+313,-16.376686,-1.2344728,19,2003,Free Trade Agreement & Economic Integration Agreement,East Asia; Central America,Panama - Chinese Taipei,235
+314,-19.38179,-1.3598268,19,2009,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,ASEAN - Australia - New Zealand,214
+315,1.1410332,10.20706,19,2009,Free Trade Agreement & Economic Integration Agreement,East Asia; West Asia,ASEAN - India,26
+316,-17.483225,-1.0727619,19,2010,Free Trade Agreement,South America; East Asia,Chile - Malaysia,123
+317,-18.649849,-1.8731222,19,2013,Free Trade Agreement & Economic Integration Agreement,East Asia; Europe,Iceland - China,131
+318,-22.468098,-3.0780587,19,2009,Free Trade Agreement & Economic Integration Agreement,Middle East; Europe,EFTA - GCC,95
+319,2.9788277,6.719055,14,2009,Free Trade Agreement,Europe; Africa,EU - Eastern and Southern Africa States Interim EPA,72
+320,-25.689463,-4.0472636,19,2010,Free Trade Agreement & Economic Integration Agreement,East Asia; Oceania,"Hong Kong, China - New Zealand",194
+321,-21.101967,-2.075051,19,2009,Free Trade Agreement & Economic Integration Agreement,East Asia; Oceania,New Zealand - Malaysia,204
+322,-26.05152,-4.16778,19,2008,Free Trade Agreement & Economic Integration Agreement,South America; East Asia,Peru - Singapore,213
+323,-19.23865,-1.411598,19,2008,Free Trade Agreement & Economic Integration Agreement,East Asia,China - Singapore,117
+324,2.8732488,0.6729603,1,2009,Free Trade Agreement,Middle East; Europe,Turkey - Jordan,54
+325,-4.743455,4.004706,19,2004,Partial Scope Agreement,South America; West Asia,MERCOSUR - India,36
+326,-16.811348,-0.7270295,19,2007,Free Trade Agreement & Economic Integration Agreement,East Asia; Central America,El Salvador- Honduras - Chinese Taipei,209
+327,-33.15284,-6.757472,19,2006,Free Trade Agreement & Economic Integration Agreement,South America; North America,US - Colombia,282
+328,-30.847746,-5.3626204,19,2014,Free Trade Agreement & Economic Integration Agreement,Oceania; East Asia,"Korea, Republic of - Australia",307
+329,-10.142533,0.40824628,19,2009,Free Trade Agreement,South America; Europe,Turkey - Chile,68
+330,-28.023838,-5.2548294,19,2011,Free Trade Agreement & Economic Integration Agreement,West Asia; East Asia,India - Malaysia,188
+331,11.313878,-2.6192536,1,2006,Free Trade Agreement,Europe,Turkey - Albania,38
+332,-2.996675,1.7536234,19,2002,Free Trade Agreement,West Asia,Pakistan - Sri Lanka,19
+333,5.5164037,11.216063,4,2006,Free Trade Agreement,West Asia,India - Bhutan,13
+334,8.641862,13.984433,4,2008,Free Trade Agreement & Economic Integration Agreement,Europe,EU - Bosnia and Herzegovina,134
+335,5.780463,11.4978695,4,2005,Free Trade Agreement & Economic Integration Agreement,Europe,Iceland - Faroe Islands,15
+336,-20.442722,-2.6696687,19,2007,Free Trade Agreement & Economic Integration Agreement,East Asia,Brunei Darussalam - Japan,124
+337,-20.516626,-1.7599679,19,2009,Free Trade Agreement,North America; Middle East,Canada - Jordan,106
+338,10.012784,12.811799,4,1995,Free Trade Agreement,Commonwealth of Independent States (CIS),Ukraine - Azerbaijan,16
+339,11.352322,16.186255,4,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Ukraine - Belarus,18
+340,9.584474,14.021189,4,1994,Free Trade Agreement,Commonwealth of Independent States (CIS),Ukraine - Kazakhstan,15
+341,6.567366,-14.22819,1,2001,Free Trade Agreement,Europe; Commonwealth of Independent States (CIS),Ukraine - Former Yugoslav Republic of Macedonia,39
+342,7.076036,4.098924,4,2003,Free Trade Agreement,Commonwealth of Independent States (CIS),Ukraine - Moldova,34
+343,9.00116,12.910203,4,2001,Free Trade Agreement,Commonwealth of Independent States (CIS),Ukraine - Tajikistan,16
+344,10.120568,9.703565,4,1994,Free Trade Agreement,Commonwealth of Independent States (CIS),Ukraine -Turkmenistan,15
+345,8.39263,11.707325,4,1994,Free Trade Agreement,Commonwealth of Independent States (CIS),Ukraine - Uzbekistan,17
+346,-2.213377,7.003523,19,2003,Free Trade Agreement,Commonwealth of Independent States (CIS),Common Economic Zone (CEZ),13
+347,11.164064,14.423063,7,1993,Free Trade Agreement,Commonwealth of Independent States (CIS),Ukraine - Russian Federation,19
+348,-3.800229,-3.8945465,19,2001,Free Trade Agreement,Oceania,Pacific Island Countries Trade Agreement (PICTA),33
+349,-2.3677623,3.990693,19,2004,Free Trade Agreement,Africa; Middle East,Agadir Agreement,36
+350,7.0189133,4.5536594,4,2009,Free Trade Agreement,Europe,EFTA - Albania,45
+351,7.20352,4.6379895,4,2009,Free Trade Agreement,Europe,EFTA - Serbia,47
+352,-10.245399,1.3799503,19,2010,Free Trade Agreement & Economic Integration Agreement,Europe; Commonwealth of Independent States (CIS),EFTA - Ukraine,97
+353,-33.264683,-7.2504454,19,2008,Free Trade Agreement & Economic Integration Agreement,Caribbean; Europe; Central America; South America,EU - CARIFORUM States EPA,253
+354,-15.558253,-0.26998132,19,2010,Free Trade Agreement & Economic Integration Agreement,North America; Central America,Canada - Panama,245
+355,1.7224602,0.8354867,4,2002,Free Trade Agreement & Economic Integration Agreement,Commonwealth of Independent States (CIS),GUAM,29
+356,-3.0270638,-4.2722254,19,2006,Free Trade Agreement,Africa; Europe,EFTA - SACU,46
+357,-14.831042,-0.7102588,19,2006,Free Trade Agreement & Economic Integration Agreement,East Asia,Japan - Philippines,167
+358,3.3474107,7.013227,14,2008,Free Trade Agreement,Europe; Africa,EU - Côte d'Ivoire,84
+359,-3.2465227,5.5619607,19,2006,Partial Scope Agreement,South America; West Asia,Chile - India,25
+360,11.7141285,-5.0310545,1,2009,Free Trade Agreement,Europe,Turkey - Serbia,39
+361,-14.414493,-0.53970295,19,2013,Free Trade Agreement & Economic Integration Agreement,East Asia; Europe,Switzerland - China,176
+362,10.295022,-12.190634,1,2007,Free Trade Agreement,Commonwealth of Independent States (CIS); Europe,Turkey - Georgia,38
+363,-2.9572349,-1.2554722,19,2007,Partial Scope Agreement,Africa; West Asia,Mauritius - Pakistan,27
+364,-32.044548,-6.0600343,19,2015,Free Trade Agreement & Economic Integration Agreement,East Asia; Oceania,Rep. of Korea - New Zealand,254
+365,-28.146471,-4.9990172,19,2011,Free Trade Agreement & Economic Integration Agreement,East Asia; South America,"Peru - Korea, Republic of",309
+366,-23.460556,-3.5477996,19,2008,Free Trade Agreement & Economic Integration Agreement,East Asia; Oceania,China - New Zealand,216
+367,-16.007467,-1.0387481,19,2009,Free Trade Agreement & Economic Integration Agreement,East Asia; South America,Peru - China,203
+368,-19.673042,-2.4474077,19,2006,Free Trade Agreement & Economic Integration Agreement,East Asia; Central America,Nicaragua - Chinese Taipei,277
+369,-30.837337,-5.3346,19,2008,Free Trade Agreement & Economic Integration Agreement,North America; South America,Canada - Peru,283
+370,-7.083877,2.5556943,19,2012,Free Trade Agreement & Economic Integration Agreement,Europe; Central America,EU - Central America,365
+371,-27.358414,-4.6236854,19,2010,Free Trade Agreement & Economic Integration Agreement,East Asia; Central America,China - Costa Rica,170
+372,-29.89402,-6.073681,19,2010,Free Trade Agreement & Economic Integration Agreement,Central America; East Asia,Costa Rica - Singapore,206
+373,3.3199282,6.983766,14,2009,Free Trade Agreement,Europe; Africa,EU - Cameroon,109
+374,-9.81358,1.0214616,19,2014,Free Trade Agreement & Economic Integration Agreement,Europe; Commonwealth of Independent States (CIS),EU - Ukraine,489
+375,-18.83105,-1.4787813,19,2011,Free Trade Agreement,South America; East Asia,Chile - Viet Nam,115
+376,-6.4680095,2.8269916,19,2011,Free Trade Agreement & Economic Integration Agreement,East Asia; Europe,"EFTA - Hong Kong, China",89
+377,-30.964334,-6.2010317,19,2012,Free Trade Agreement & Economic Integration Agreement,Europe; South America,EU - Colombia and Peru,339
+378,-26.760561,-4.404612,19,2016,Free Trade Agreement,North America; Commonwealth of Independent States (CIS),Canada - Ukraine,216
+379,-32.498867,-7.242239,19,2013,Free Trade Agreement & Economic Integration Agreement,South America; East Asia,"Korea, Republic of -  Colombia",276
+380,-30.312927,-6.3840365,19,2015,Free Trade Agreement & Economic Integration Agreement,East Asia,China - Rep. of Korea,307
+381,1.4277999,10.465092,19,2012,Free Trade Agreement,East Asia; Europe,"Korea, Republic of - Turkey",64
+382,9.103821,-16.616806,1,2008,Free Trade Agreement,Europe,Turkey - Montenegro,38
+383,-31.055616,-6.6477733,19,2015,Free Trade Agreement & Economic Integration Agreement,East Asia,Rep. of Korea - Viet Nam,199
+384,8.470546,13.807292,4,2008,Free Trade Agreement & Economic Integration Agreement,Europe,EU - Serbia,140
+385,1.1503719,10.215811,19,2010,Free Trade Agreement & Economic Integration Agreement,East Asia,The Cross-Straits Economic Cooperation Framework Agreement (ECFA),18
+386,-31.409594,-5.6738777,19,2009,Free Trade Agreement & Economic Integration Agreement,West Asia; East Asia,"Korea, Republic of - India",199
+387,-0.21497065,0.6448081,19,2013,Free Trade Agreement,Europe,EFTA - Bosnia and Herzegovina,56
+388,-25.396122,-4.1782746,19,2012,Free Trade Agreement & Economic Integration Agreement,South America; East Asia,"Hong Kong, China - Chile",172
+389,-2.190272,0.46454498,19,2008,Partial Scope Agreement,South America; Africa,Southern Common Market (MERCOSUR) - Southern African Customs Union (SACU),43
+390,3.7588131,7.345504,14,2009,Free Trade Agreement,Europe; Oceania,EU - Papua New Guinea / Fiji,84
+391,-22.555607,-2.848866,19,2011,Free Trade Agreement & Economic Integration Agreement,East Asia; South America,Japan - Peru,227
+392,-3.0984232,1.0324824,19,2011,Free Trade Agreement,Commonwealth of Independent States (CIS),Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS),27
+393,-3.7898242,-4.043978,19,2011,Free Trade Agreement,Europe,EFTA - Montenegro,54
+394,-24.504889,-3.4919283,19,2013,Free Trade Agreement & Economic Integration Agreement,Central America; Europe,EFTA - Central America (Costa Rica and Panama),138
+395,-0.5803539,-7.539758,1,2011,Free Trade Agreement,Africa; Europe,Turkey - Mauritius,38
+396,-7.709003,2.2459524,19,2014,Free Trade Agreement,East Asia; Europe,Turkey - Malaysia,166
+397,11.348516,-4.1130033,1,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Russian Federation - Belarus,22
+398,11.482474,-4.630067,1,1993,Free Trade Agreement,Commonwealth of Independent States (CIS),Russian Federation - Republic of Moldova,23
+399,11.809914,-4.6584177,1,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Russian Federation - Azerbaijan,23
+400,11.822212,-2.7476757,1,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Russian Federation - Kazakhstan,25
+401,11.800754,-3.3107662,1,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Russian Federation - Tajikistan,21
+402,-19.100183,-2.2391305,19,2015,Free Trade Agreement & Economic Integration Agreement,East Asia,Japan - Mongolia,203
+403,9.013991,13.874554,4,2007,Customs Union,Africa,East African Community (EAC) - Accession of Burundi and Rwanda,14
+404,-9.211986,1.6692667,19,2014,Free Trade Agreement & Economic Integration Agreement,Europe; Commonwealth of Independent States (CIS),EU - Georgia,433
+405,-6.3606987,2.8882415,19,2014,Free Trade Agreement & Economic Integration Agreement,Europe; Commonwealth of Independent States (CIS),EU - Rep. of  Moldova,464
+406,-1.992546,6.6746984,19,1995,Customs Union,Commonwealth of Independent States (CIS),Russian Federation - Belarus - Kazakhstan,10
+407,-0.12528937,-1.0446315,1,2000,Free Trade Agreement,Commonwealth of Independent States (CIS); Europe,Russian Federation - Serbia,23
+408,11.158382,-1.2552661,1,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Russian Federation - Uzbekistan,20
+409,11.636958,-1.7761508,1,1992,Free Trade Agreement,Commonwealth of Independent States (CIS),Russian Federation - Turkmenistan,21
+410,-16.531927,-1.2507501,19,2011,Free Trade Agreement & Economic Integration Agreement,Europe; Commonwealth of Independent States (CIS),Ukraine - Montenegro,62
+411,-3.4739919,5.3308167,19,2003,Partial Scope Agreement,West Asia; East Asia,India - Thailand,16
+412,-30.732086,-5.9537687,19,2013,Free Trade Agreement & Economic Integration Agreement,East Asia; Oceania,New Zealand - Chinese Taipei,257
+413,-30.103363,-5.2649026,19,2013,Free Trade Agreement & Economic Integration Agreement,East Asia,Singapore - Chinese Taipei,156
+414,3.9595573,7.514985,14,2014,Customs Union & Economic Integration Agreement,Commonwealth of Independent States (CIS),Eurasian Economic Union (EAEU),120
+415,14.2905655,15.472799,2,2014,Customs Union & Economic Integration Agreement,Commonwealth of Independent States (CIS),Eurasian Economic Union (EAEU) - Accession of Armenia,8
+416,-29.404875,-5.7757373,19,2013,Free Trade Agreement & Economic Integration Agreement,North America; Central America,Canada - Honduras,244
+417,-23.981466,-3.7750888,19,2008,Free Trade Agreement & Economic Integration Agreement,Middle East; East Asia,Gulf Cooperation Council (GCC) - Singapore,130
+418,14.286711,15.473719,2,2014,Customs Union & Economic Integration Agreement,Commonwealth of Independent States (CIS),Eurasian Economic Union (EAEU) - Accession of the Kyrgyz Republic,13
+419,-0.20944984,-0.9917116,1,2014,Free Trade Agreement,Commonwealth of Independent States (CIS); Europe,"Turkey - Moldova, Republic of",37
+420,-19.892227,-1.5578097,19,2016,Free Trade Agreement & Economic Integration Agreement,Europe; East Asia,EFTA - Philippines,119
+421,-8.926605,2.9665647,2,2015,Free Trade Agreement & Economic Integration Agreement,Commonwealth of Independent States (CIS); East Asia,Eurasian Economic Union (EAEU) - Viet Nam,217
+422,3.4173965,7.0694704,14,2016,Free Trade Agreement,Europe; Africa,EU - Ghana,84
+423,-31.736107,-6.898534,19,2016,Free Trade Agreement,East Asia; North America; South America,Trans-Pacific Partnership,508
